@@ -1,1 +1,2 @@
-# edi-sem-5
+# Emotify
+A web app to analyze users emotion and suggest a spotify playlist based on the emotion identified.
